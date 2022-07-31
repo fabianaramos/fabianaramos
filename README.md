@@ -1,10 +1,8 @@
-#  Hello wolrd, I'm Fabi! 
+#  Hello, I'm Fabi! 
 
 <img align='right' src="https://c.tenor.com/uWHd-STTyFIAAAAM/asteroid-in-love-mari-morino.gif" widht="215">
 
-<p>Recently i fell in love with coding and now I am an aspirant full-stack developer :) </P>
-
-<p>I'm currently learning <b>Python, HTML, JS, CSS and Ruby on Rails.</b></p>
+<p>I'm a Ruby on Rails developer.</p>
 <br>
 
 <p>You can find me in other channels:</p>
