@@ -2,8 +2,9 @@
 
 <img align='right' src="https://c.tenor.com/uWHd-STTyFIAAAAM/asteroid-in-love-mari-morino.gif" widht="215">
 
-<p>I'm a Ruby on Rails developer.</p>
-<br>
+<p>I'm a software engineer.</p>
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianaramos&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>You can find me in other channels:</p>
 
